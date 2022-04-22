@@ -834,11 +834,11 @@ opacity: 1;
     border-radius: 0px 0px 30px 30px;
   }
   .text_kafe, .text_act, .text_muzei, .text_parki{
-    font-size: 12px;
+    font-size: 11px;
     bottom: 49%;
   }
   .info_kafe, .info_act, .info_parki, .info_muzei {
-    font-size: 9.5px;
+    font-size: 9px;
     bottom: 7%;
   }
   .cards{
