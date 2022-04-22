@@ -838,9 +838,8 @@ opacity: 1;
     bottom: 49%;
   }
   .info_kafe, .info_act, .info_parki, .info_muzei {
-    font-size: 10px;
+    font-size: 9.5px;
     bottom: 7%;
-    opacity: 1;
   }
   .cards{
     height:37vh;
