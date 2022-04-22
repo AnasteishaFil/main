@@ -821,12 +821,26 @@ opacity: 1;
       transform: translate(0, 6px) rotate(-45deg);
     }
   }
+  .point_kafe, .point_act, .point_muzei, .point_parki{
+    height: 27%;
+    top: 11%;
+    right: 15%;
+  }
+  .wave_kafe, .wave_act, .wave_muzei, .wave_parki{
+    bottom: 46%;
+  }
   .svrect_kafe, .svrect_act, .svrect_muzei, .svrect_parki{
+    height: 48%;
     border-radius: 0px 0px 30px 30px;
   }
   .text_kafe, .text_act, .text_muzei, .text_parki{
+    font-size: 12px;
+    bottom: 47%;
+  }
+  .info_kafe, .info_act, .info_parki, .info_muzei {
     font-size: 10px;
-    bottom: 39%;
+    bottom: 7%;
+    opacity: 1;
   }
   .cards{
     height:37vh;
@@ -842,19 +856,6 @@ opacity: 1;
  .karta1{
    height: 100%;
  }
-  .svrect_kafe,.svrect_act,.svrect_muzei,.svrect_parki{
-    border-radius: 0px 0px 30px 30px;
-  }
-  .info_kafe, .info_act, .info_muzei {
-    font-size: 8px;
-    bottom: 5%;
-    opacity: 1;
-  }
-  .info_parki{
-    font-size: 8px;
-    bottom: 15%;
-    opacity: 1;
-  }
   .hover:hover .info-card{
     opacity: 0;
     transition: 0.2s;
