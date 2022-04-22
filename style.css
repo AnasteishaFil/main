@@ -823,19 +823,19 @@ opacity: 1;
   }
   .point_kafe, .point_act, .point_muzei, .point_parki{
     height: 27%;
-    top: 11%;
+    top: 7%;
     right: 15%;
   }
   .wave_kafe, .wave_act, .wave_muzei, .wave_parki{
-    bottom: 46%;
+    bottom: 53%;
   }
   .svrect_kafe, .svrect_act, .svrect_muzei, .svrect_parki{
-    height: 48%;
+    height: 56%;
     border-radius: 0px 0px 30px 30px;
   }
   .text_kafe, .text_act, .text_muzei, .text_parki{
     font-size: 12px;
-    bottom: 47%;
+    bottom: 49%;
   }
   .info_kafe, .info_act, .info_parki, .info_muzei {
     font-size: 10px;
