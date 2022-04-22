@@ -238,11 +238,10 @@ footer{
   
 }
 .logo_burger{
-  width: 75vw;
+  width: 135%;
   position: absolute;
-  bottom: 3vh;
-  right: -18vw;
-
+  bottom: 5vh;
+  right: -40%;
 }
 .own-photo{
   background-image: url(/page/karta.png);
